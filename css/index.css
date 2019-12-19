@@ -3868,7 +3868,7 @@ img:hover {
   position: absolute;
   font-weight: bold;
   font-size: 0.8rem;
-  line-height: 0.9rem;
+  line-height: 0.8rem;
   color: #90a4ae;
   left: 30px;
   z-index: 1;
@@ -3878,7 +3878,7 @@ img:hover {
   position: absolute;
   top: 0;
   color: #90a4ae;
-  padding: 7px 10px;
+  padding: 2px 2px;
   z-index: 1;
   cursor: pointer;
   -webkit-transition: all 0.3s;
